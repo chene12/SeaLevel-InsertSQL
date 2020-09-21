@@ -4,7 +4,7 @@ since 1993. The script will use the parsed data to create a sql query to insert
 the data into a database.
 
 ## Python
-This exercise use python3.8.
+This exercise uses python3.8.
 
 ## Database Tools and DBMS
-This exercise use PostgreSQL 12 DBMS.
+This exercise uses PostgreSQL 12 DBMS.
